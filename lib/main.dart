@@ -16,7 +16,7 @@ class _AppState extends State<App> {
 
   void onClicked() {
     setState(() {
-      counter = counter + 2;
+      counter = counter + 1;
     });
   }
 
